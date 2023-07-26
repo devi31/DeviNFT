@@ -2,9 +2,9 @@ const hre = require("hardhat");
 const tokenContractJSON = require("../artifacts/contracts/DeviNFT.sol/DeviNFT.json");
 //require('dotenv').config();
 
-const tokenAddress = "0xcAd0D6B3101979616299a7Db41bEa13a81Aa676f"; // Extract token address from .env
+const tokenAddress = "token address"; // Extract token address from .env
 const tokenABI = tokenContractJSON.abi;
-const walletAddress = "0xbEEF8135D7B534390a2EF7C388bDd855CAdF1CA5";
+const walletAddress = "wallet address";
 
  // Array to store minted token IDs
 
