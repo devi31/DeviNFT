@@ -2,7 +2,7 @@ const hre = require("hardhat");
 const tokenContractJSON = require("../artifacts/contracts/DeviNFT.sol/DeviNFT.json");
 //require('dotenv').config()
 
-const tokenAddress = "0xcAd0D6B3101979616299a7Db41bEa13a81Aa676f";
+const tokenAddress = "token address";
 const tokenABI = tokenContractJSON.abi;
 async function main() {
 
