@@ -1,6 +1,6 @@
-const tokenAddress = "0x64434F20C628f42C36d821DF15800b632cA58f6F"; // Extract token address from .env
+const tokenAddress = "token address"; // Extract token address from .env
 const tokenABI = tokenContractJSON.abi;
-const walletAddress = "0xbEEF8135D7B534390a2EF7C388bDd855CAdF1CA5";
+const walletAddress = "wallet address";
 
  // Array to store minted token IDs
 
